@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Amit Mishra
 - 👀 I’m interested in Web-Devlepment
-- 🌱 I’m currently learning React, Three.js, IFC.js 
+- &#128512; I have Knowledge of React, JavaScript, HTML/CSS, SASS, Bootstrap, and MaterialUI
+- 🌱 I’m currently learning Three.js & IFC.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me You can reach at amitm780@gmail.com
 
