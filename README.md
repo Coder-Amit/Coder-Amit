@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Amit Mishra a 👀 React Developer
-- &#128512; I have Knowledge of React, JavaScript, HTML/CSS, SASS, Bootstrap, and MaterialUI, Charts, Syncfusion
-- 🌱 I’m currently trying my hands on NodeJs and Express to build apis 
-- 💞️ I have 1+ year of experience working as Software Engineer(UI)
+- 👋 Hi, I’m @Amit Mishra a 👀 Software Engineer I (UI)
+- &#128512; My Knowledge Bucket -> [ React, JavaScript, Express, Nodejs, SASS, Bootstrap, MaterialUI, Charts, Syncfusion ]
+- 🌱 I’m currently trying my hands on NextJS 
+- 💞️ I have 2+ year of experience working as Software Engineer(UI)
 - 📫 How to reach me! You can reach me at amitm780@gmail.com
 
 <!---
