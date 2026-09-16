@@ -35,6 +35,6 @@ Software Engineer II at **Shopalyst** (Bengaluru) with 5+ years building systems
 <!-- Stats card uses a personal (non-official) deploy of github-readme-stats since the shared
      official instance (github-readme-stats.vercel.app) is chronically overloaded (503s).
      If it ever breaks, deploy your own free copy: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Coder-Amit&show_icons=true&theme=default&hide_border=true" alt="Amit's GitHub stats" height="165"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Coder-Amit&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Coder-Amit&show_icons=true&count_private=true&theme=default&hide_border=true" alt="Amit's GitHub stats" height="165"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Coder-Amit&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Coder-Amit&hide_border=true" alt="Amit's GitHub streak" height="165"/>
