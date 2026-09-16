@@ -2,8 +2,8 @@
 
 Software Engineer II at **Shopalyst** (Bengaluru) with 5+ years building systems end-to-end — frontend architecture, backend APIs, 3D/WebGL, and dev tooling, not just UI.
 
-- 🏗️ At Shopalyst: built **Creative Studio** end-to-end — store architecture, backend APIs, and async queue-based (Redis + BullMQ) pipelines for template-based and bulk ad-campaign generation, under real production concurrency/memory constraints.
-- 🕶️ Earlier at Hloov: built browser-native **3D BIM visualization tools** (Three.js + IFC.js) — in-browser model rendering, geometry raycasting, and structural inspection over large architectural datasets.
+- 🏗️ At Shopalyst: designed and built an end-to-end content-generation system — store architecture, backend APIs, and async/queue-based (Redis + BullMQ) pipelines, engineered for real production concurrency, memory pressure, and transactional data integrity.
+- 🕶️ Earlier at Hloov: built browser-native 3D visualization tools (Three.js + IFC.js) — in-browser model rendering, geometry raycasting, and structural inspection over large architectural datasets.
 - 🔭 Currently building **[Tracepoint](https://github.com/tracepoint-dev/tracepoint)** — an open-source feedback & diagnostics SDK for web apps, with a self-hostable receiver and a read-only MCP endpoint so coding agents can act on user reports directly.
 - 🌱 Also shipping a Next.js SIP visualizer ([sip-visualizer](https://github.com/coding-databits/sip-visualizer)) and exploring AI agent orchestration on the side.
 - 📫 Reach me at **amitm780@gmail.com**
@@ -29,7 +29,6 @@ Software Engineer II at **Shopalyst** (Bengaluru) with 5+ years building systems
 |---|---|
 | **[Tracepoint](https://github.com/tracepoint-dev/tracepoint)** | Open-source feedback & diagnostics SDK — capture SDK, React adapter, self-hostable receiver with a triage dashboard and read-only MCP endpoint for coding agents. TypeScript, MIT licensed. |
 | **[sip-visualizer](https://github.com/coding-databits/sip-visualizer)** | Next.js app for visualizing SIP (systematic investment plan) growth. |
-| **Creative Studio** *(Shopalyst, internal)* | Production platform for template-based and bulk ad-campaign generation — async/queue-based rendering, Sequelize-backed transactional integrity, color extraction, multimedia widgets, and vertical-video product tagging. |
 
 ### GitHub stats
 
